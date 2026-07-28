@@ -16,10 +16,10 @@
 
 ### About Me
 
-- Currently building full-stack web applications
-- Sharpening my skills in React, Node.js, and MongoDB
-- Also exploring cybersecurity and steganography projects
-- Ask me about JavaScript, HTML/CSS, or the MERN stack
+- Building full-stack web applications with the MERN stack — from auth and admin dashboards to REST APIs
+- Shipped projects spanning a blogging platform, a URL shortener with analytics, and an interactive quiz app
+- Exploring cybersecurity and steganography on the side
+- Comfortable across JavaScript, React, Node.js, Express, and MongoDB
 
 ---
 
