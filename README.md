@@ -44,8 +44,11 @@
 
 | Project | Description | Tech |
 |---|---|---|
+| [**BlogSpace**](https://github.com/Arpithaapoojary/blogspace) | Full-stack MERN blogging platform — markdown editor, admin dashboard, likes, comments, followers | React · Node.js · Express · MongoDB |
+| [**snip (URL Shortener)**](https://github.com/Arpithaapoojary/url-shortener) | Full-stack URL shortener with custom slugs and click analytics — [live demo](https://url-shortener-blond-xi.vercel.app) | React · Node.js · Express |
 | [**BakeHub**](https://github.com/Arpithaapoojary/BakeHub) | Full-stack bakery web application | React · Node.js · Express · MongoDB |
 | [**AI Chatbot**](https://github.com/Arpithaapoojary/ai-chatbot) | Responsive AI chatbot interface with real-time chat simulation, text & image support | HTML · CSS · JavaScript |
+| [**Category Clash**](https://github.com/Arpithaapoojary/category-clash) | Timed trivia quiz game with live questions and ticket-stub scoring | JavaScript · REST API |
 | [**Stegnoguard**](https://github.com/Arpithaapoojary/Stegnoguard) | Steganography-based security tool | TypeScript |
 | [**Internship Tasks**](https://github.com/Arpithaapoojary?tab=repositories) | A series of internship projects (Task 01-03) covering front-end fundamentals | HTML · CSS · JavaScript |
 
