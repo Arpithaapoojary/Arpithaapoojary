@@ -48,7 +48,7 @@
 | [**snip (URL Shortener)**](https://github.com/Arpithaapoojary/url-shortener) | Full-stack URL shortener with custom slugs and click analytics — [live demo](https://url-shortener-blond-xi.vercel.app) | React · Node.js · Express |
 | [**BakeHub**](https://github.com/Arpithaapoojary/BakeHub) | Full-stack bakery web application | React · Node.js · Express · MongoDB |
 | [**AI Chatbot**](https://github.com/Arpithaapoojary/ai-chatbot) | Responsive AI chatbot interface with real-time chat simulation, text & image support | HTML · CSS · JavaScript |
-| [**Category Clash**](https://github.com/Arpithaapoojary/category-clash) | Timed trivia quiz game with live questions and ticket-stub scoring | JavaScript · REST API |
+| [**Category Clash**](https://github.com/Arpithaapoojary/category-clash) | Timed trivia quiz game with live questions — [live demo](https://category-clash-quiz.vercel.app/) | JavaScript · REST API |
 | [**Stegnoguard**](https://github.com/Arpithaapoojary/Stegnoguard) | Steganography-based security tool | TypeScript |
 | [**Internship Tasks**](https://github.com/Arpithaapoojary?tab=repositories) | A series of internship projects (Task 01-03) covering front-end fundamentals | HTML · CSS · JavaScript |
 
@@ -57,8 +57,10 @@
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Arpithaapoojary&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpithaapoojary&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="./generated/overview.svg" alt="GitHub stats overview" />
+</p>
+<p align="center">
+  <img src="./generated/languages.svg" alt="Most used languages" />
 </p>
 
 <p align="center">
@@ -73,7 +75,7 @@
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR-EMAIL@example.com">
+  <a href="mailto:arpithaapoojary@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
