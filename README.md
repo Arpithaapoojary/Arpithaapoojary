@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Arpitha 👋</h1>
+<h1 align="center">Hi there, I'm Arpitha</h1>
 
 <h3 align="center">MCA Graduate | Software Developer | Web Applications</h3>
 
@@ -7,24 +7,23 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍-Mangalore,%20India-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/🎓-MCA%20Graduate-6C63FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/💻-Open%20to%20Work-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Mangalore,%20India-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Education-MCA%20Graduate-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square" />
 </p>
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 🔭 I'm currently building full-stack web applications
-- 🌱 Sharpening my skills in **React, Node.js, and MongoDB**
-- 🛡️ Also exploring **cybersecurity / steganography** projects
-- 💬 Ask me about JavaScript, HTML/CSS, or the MERN stack
-- ⚡ Fun fact: I like turning internship tasks into polished mini-projects
+- Currently building full-stack web applications
+- Sharpening my skills in React, Node.js, and MongoDB
+- Also exploring cybersecurity and steganography projects
+- Ask me about JavaScript, HTML/CSS, or the MERN stack
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -41,18 +40,18 @@
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
 | Project | Description | Tech |
 |---|---|---|
-| 🍰 [**BakeHub**](https://github.com/Arpithaapoojary/BakeHub) | Full-stack bakery web application | React · Node.js · Express · MongoDB |
-| 🤖 [**AI Chatbot**](https://github.com/Arpithaapoojary/ai-chatbot) | Responsive AI chatbot interface with real-time chat simulation, text & image support | HTML · CSS · JavaScript |
-| 🛡️ [**Stegnoguard**](https://github.com/Arpithaapoojary/Stegnoguard) | Steganography-based security tool | TypeScript |
-| 💼 [**Internship Tasks**](https://github.com/Arpithaapoojary?tab=repositories) | A series of internship projects (Task 01–03) covering front-end fundamentals | HTML · CSS · JavaScript |
+| [**BakeHub**](https://github.com/Arpithaapoojary/BakeHub) | Full-stack bakery web application | React · Node.js · Express · MongoDB |
+| [**AI Chatbot**](https://github.com/Arpithaapoojary/ai-chatbot) | Responsive AI chatbot interface with real-time chat simulation, text & image support | HTML · CSS · JavaScript |
+| [**Stegnoguard**](https://github.com/Arpithaapoojary/Stegnoguard) | Steganography-based security tool | TypeScript |
+| [**Internship Tasks**](https://github.com/Arpithaapoojary?tab=repositories) | A series of internship projects (Task 01-03) covering front-end fundamentals | HTML · CSS · JavaScript |
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Arpithaapoojary&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -60,12 +59,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arpithaapoojary&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Arpithaapoojary&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
