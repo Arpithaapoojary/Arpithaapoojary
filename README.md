@@ -52,15 +52,6 @@
 | [**Stegnoguard**](https://github.com/Arpithaapoojary/Stegnoguard) | Steganography-based security tool | TypeScript |
 | [**Internship Tasks**](https://github.com/Arpithaapoojary?tab=repositories) | A series of internship projects (Task 01-03) covering front-end fundamentals | HTML · CSS · JavaScript |
 
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Arpithaapoojary&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ### Connect with Me
 
