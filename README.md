@@ -34,6 +34,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
@@ -44,6 +45,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
+| [**DermScan**](https://github.com/Arpithaapoojary/DermScan) | AI-powered clinical decision support system for skin pathologies featuring a hierarchical CNN, Grad-CAM explainability, and a doctor validation dashboard — [live demo](https://dermscan-8a6i.onrender.com) | Python · Flask · TensorFlow · SQLite |
 | [**BlogSpace**](https://github.com/Arpithaapoojary/blogspace) | Full-stack MERN blogging platform — markdown editor, admin dashboard, likes, comments, followers | React · Node.js · Express · MongoDB |
 | [**snip (URL Shortener)**](https://github.com/Arpithaapoojary/url-shortener) | Full-stack URL shortener with custom slugs and click analytics — [live demo](https://url-shortener-blond-xi.vercel.app) | React · Node.js · Express |
 | [**BakeHub**](https://github.com/Arpithaapoojary/BakeHub) | Full-stack bakery web application | React · Node.js · Express · MongoDB |
