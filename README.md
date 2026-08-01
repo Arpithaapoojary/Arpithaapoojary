@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Arpitha 👋</h1>
 
-<h3 align="center">MCA Graduate @ MITE 🎓</h3>
+<h3 align="center">MCA Graduate @ MITE </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Building+full-stack+web+apps;React+%7C+Node.js+%7C+MongoDB;Turning+ideas+into+working+code" alt="Typing SVG" />
