@@ -1,249 +1,72 @@
-<div align="center">
+<h1 align="center">Hi there, I'm Arpitha 👋</h1>
 
-# Hi 👋 I'm Arpitha Poojary
-
-### MCA Graduate • Full Stack Developer • MERN Stack Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=6C63FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+Applications;Open+to+Software+Engineering+Roles;Always+Learning+Something+New+🚀" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Open%20To%20Work-Yes-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/MCA-Graduate-blueviolet?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Location-Karnataka,%20India-blue?style=for-the-badge"/>
-
-</div>
-
----
-
-# 💫 About Me
-
-💻 Passionate Full Stack Developer with experience building responsive and scalable web applications.
-
-🚀 Strong interest in Software Engineering, Web Development and Problem Solving.
-
-🌱 Currently improving my
-
-- Data Structures & Algorithms
-- System Design Fundamentals
-- Backend Development
-- Java & JavaScript
-
-🎯 Looking for
-
-- Associate Software Engineer
-- Software Developer
-- Full Stack Developer
-- Backend Developer
-
----
-
-# 🚀 Tech Stack
-
-## Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,html,css"/>
-
-</p>
-
-## Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite"/>
-
-</p>
-
-## Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-
-</p>
-
-## Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-
-</p>
-
-## Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"/>
-
-</p>
-
----
-
-# 🌟 Featured Projects
-
-## 🍰 BakeHub
-
-Full Stack Bakery Management Platform
-
-✨ Features
-
-- Authentication
-- Admin Dashboard
-- Bakery Owner Dashboard
-- Razorpay Integration
-- Product Management
-- Order Tracking
-
-🔗 Repository
-
-https://github.com/Arpithaapoojary/BakeHub
-
----
-
-## 🛡️ StegnoGuard
-
-Cybersecurity & Image Steganography Toolkit
-
-✔ AES Encryption
-
-✔ Image Steganography
-
-✔ Email Validation
-
-✔ DNS Lookup
-
-🔗
-
-https://github.com/Arpithaapoojary/Stegnoguard
-
-Live
-
-https://stegnoguard.vercel.app/
-
----
-
-## 🩺 DermScan
-
-Deep Learning Based Skin Disease Detection
-
-Features
-
-- CNN Model
-- Grad-CAM Visualization
-- Doctor Dashboard
-- Clinical Decision Support
-
-Repository
-
-https://github.com/Arpithaapoojary/DermScan
-
-Live
-
-https://dermscan-8a6i.onrender.com
-
----
-
-## ✂ URL Shortener
-
-- Custom URLs
-- Click Analytics
-- Dashboard
-
-https://github.com/Arpithaapoojary/url-shortener
-
----
-
-## 📝 BlogSpace
-
-MERN Blogging Platform
-
-- Authentication
-- Markdown Editor
-- Comments
-- Followers
-- Admin Dashboard
-
-https://github.com/Arpithaapoojary/blogspace
-
----
-
-# 📊 GitHub Stats
+<h3 align="center">MCA Graduate @ MITE </h3>
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arpithaapoojary&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpithaapoojary&layout=compact&theme=tokyonight"/>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Building+full-stack+web+apps;React+%7C+Node.js+%7C+MongoDB;Turning+ideas+into+working+code" alt="Typing SVG" />
 </p>
-
----
-
-# 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arpithaapoojary&theme=tokyonight"/>
-
+  <img src="https://img.shields.io/badge/Location-Mangalore,%20India-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Education-MCA%20Graduate-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square" />
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+### About Me
+
+* Building full-stack web applications with the MERN stack — from auth and admin dashboards to REST APIs
+* Shipped projects spanning a blogging platform, a URL shortener with analytics, and an interactive quiz app
+* Exploring cybersecurity and steganography on the side
+* Comfortable across JavaScript, React, Node.js, Express, and MongoDB
+
+---
+
+### Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+### Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [**Stegnoguard**](https://github.com/Arpithaapoojary/Stegnoguard) | Client-side security & steganography suite — LSB image hiding, AES encryption, DNS lookup & email validation — [live demo](https://stegnoguard.vercel.app/) | React · TypeScript · Vite · Tailwind |
+| [**DermScan**](https://github.com/Arpithaapoojary/DermScan) | AI-powered clinical decision support system for skin pathologies featuring a hierarchical CNN, Grad-CAM explainability, and a doctor validation dashboard — [live demo](https://dermscan-8a6i.onrender.com) | Python · Flask · TensorFlow · SQLite |
+| [**BlogSpace**](https://github.com/Arpithaapoojary/blogspace) | Full-stack MERN blogging platform — markdown editor, admin dashboard, likes, comments, followers | React · Node.js · Express · MongoDB |
+| [**snip (URL Shortener)**](https://github.com/Arpithaapoojary/url-shortener) | Full-stack URL shortener with custom slugs and click analytics — [live demo](https://url-shortener-blond-xi.vercel.app) | React · Node.js · Express |
+| [**BakeHub**](https://github.com/Arpithaapoojary/BakeHub) | Full-stack bakery web application | React · Node.js · Express · MongoDB |
+| [**AI Chatbot**](https://github.com/Arpithaapoojary/ai-chatbot) | Responsive AI chatbot interface with real-time chat simulation, text & image support | HTML · CSS · JavaScript |
+| [**Category Clash**](https://github.com/Arpithaapoojary/category-clash) | Timed trivia quiz game with live questions — [live demo](https://category-clash-quiz.vercel.app/) | JavaScript · REST API |
+| [**Internship Tasks**](https://github.com/Arpithaapoojary?tab=repositories) | A series of internship projects (Task 01-03) covering front-end fundamentals | HTML · CSS · JavaScript |
+
+---
+
+### Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:arpithaapoojary@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Arpithaapoojary&theme=algolia&row=2&column=4"/>
-
+  <img src="https://komarev.com/ghpvc/?username=Arpithaapoojary&label=Profile%20Views&color=6C63FF&style=flat" />
 </p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arpithaapoojary&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="YOUR_LINKEDIN">
-
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-
-</a>
-
-<a href="mailto:arpithaapoojary@gmail.com">
-
-<img src="https://skillicons.dev/icons?i=gmail"/>
-
-</a>
-
-</p>
-
----
-
-# 💡 Quote
-
-> *"Code is not just about solving problems—it's about creating experiences that matter."*
-
----
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=Arpithaapoojary&color=blueviolet&style=for-the-badge)
-
-### ⭐ Thanks for visiting my profile!
-
-</div>
