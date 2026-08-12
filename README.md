@@ -41,22 +41,32 @@
 
 ---
 
-### GitHub Stats
+### Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arpithaapoojary&show_icons=true&theme=nord" alt="Arpitha's GitHub Stats" />
-</p>
+| Project | Description | Tech |
+|---|---|---|
+| [**Stegnoguard**](https://github.com/Arpithaapoojary/Stegnoguard) | Client-side security & steganography suite — LSB image hiding, AES encryption, DNS lookup & email validation — [live demo](https://stegnoguard.vercel.app/) | React · TypeScript · Vite · Tailwind |
+| [**DermScan**](https://github.com/Arpithaapoojary/DermScan) | AI-powered clinical decision support system for skin pathologies featuring a hierarchical CNN, Grad-CAM explainability, and a doctor validation dashboard — [live demo](https://dermscan-8a6i.onrender.com) | Python · Flask · TensorFlow · SQLite |
+| [**BlogSpace**](https://github.com/Arpithaapoojary/blogspace) | Full-stack MERN blogging platform — markdown editor, admin dashboard, likes, comments, followers | React · Node.js · Express · MongoDB |
+| [**snip (URL Shortener)**](https://github.com/Arpithaapoojary/url-shortener) | Full-stack URL shortener with custom slugs and click analytics — [live demo](https://url-shortener-blond-xi.vercel.app) | React · Node.js · Express |
+| [**BakeHub**](https://github.com/Arpithaapoojary/BakeHub) | Full-stack bakery web application | React · Node.js · Express · MongoDB |
+| [**AI Chatbot**](https://github.com/Arpithaapoojary/ai-chatbot) | Responsive AI chatbot interface with real-time chat simulation, text & image support | HTML · CSS · JavaScript |
+| [**Category Clash**](https://github.com/Arpithaapoojary/category-clash) | Timed trivia quiz game with live questions — [live demo](https://category-clash-quiz.vercel.app/) | JavaScript · REST API |
+| [**Internship Tasks**](https://github.com/Arpithaapoojary?tab=repositories) | A series of internship projects (Task 01-03) covering front-end fundamentals | HTML · CSS · JavaScript |
 
 ---
 
 ### Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/arpithapoojary">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:arpithaapoojary@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Arpithaapoojary&label=Profile%20Views&color=6C63FF&style=flat" />
+</p>s
