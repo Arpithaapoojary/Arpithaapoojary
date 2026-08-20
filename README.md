@@ -45,6 +45,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
+| [**DocIntel**](https://github.com/Arpithaapoojary/DocIntel) | Enterprise AI Document Intelligence & RAG platform — multi-format parsing, grounded citations, confidence scoring & admin telemetry — [live demo](https://doc-intel-live.vercel.app) | FastAPI · Python · React · TypeScript · ChromaDB |
 | [**Stegnoguard**](https://github.com/Arpithaapoojary/Stegnoguard) | Client-side security & steganography suite — LSB image hiding, AES encryption, DNS lookup & email validation — [live demo](https://stegnoguard.vercel.app/) | React · TypeScript · Vite · Tailwind |
 | [**DermScan**](https://github.com/Arpithaapoojary/DermScan) | AI-powered clinical decision support system for skin pathologies featuring a hierarchical CNN, Grad-CAM explainability, and a doctor validation dashboard — [live demo](https://dermscan-8a6i.onrender.com) | Python · Flask · TensorFlow · SQLite |
 | [**BlogSpace**](https://github.com/Arpithaapoojary/blogspace) | Full-stack MERN blogging platform — markdown editor, admin dashboard, likes, comments, followers | React · Node.js · Express · MongoDB |
