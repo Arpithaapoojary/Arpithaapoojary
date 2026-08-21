@@ -41,142 +41,118 @@
 
 ---
 
-## 🚀 Featured Engineering Projects
+## Featured Engineering Projects
 
 <table width="100%">
-  <!-- ROW 1: DocIntel & Stegnoguard -->
+  <!-- ROW 1: DermScan & Stegnoguard -->
   <tr>
     <td width="50%" valign="top">
       <h3>
-        <a href="https://github.com/Arpithaapoojary/DocIntel">🧠 DocIntel</a>
+        <a href="https://github.com/Arpithaapoojary/DermScan">DermScan</a>
       </h3>
-      <p><b>Enterprise AI Document Intelligence & RAG Platform</b></p>
+      <p><b>Research & Clinical Decision Support System for Skin Pathologies</b></p>
       <p>
-        Production-ready Retrieval-Augmented Generation (RAG) system for multi-format document parsing (PDF, DOCX, TXT), vector chunking via ChromaDB, hallucination-resistant Q&A with grounded citations, confidence scoring, and admin telemetry.
-      </p>
-      <p>
-        <code>FastAPI</code> <code>Python</code> <code>React</code> <code>TypeScript</code> <code>ChromaDB</code> <code>Tailwind</code>
-      </p>
-      <p>
-        <a href="https://github.com/Arpithaapoojary/DocIntel">
-          <img src="https://img.shields.io/badge/GitHub-DocIntel-181717?style=flat-square&logo=github" alt="DocIntel Repo" />
-        </a>
-        &nbsp;
-        <a href="https://doc-intel-five.vercel.app">
-          <img src="https://img.shields.io/badge/Live_Demo-Vercel-000000?style=flat-square&logo=vercel" alt="DocIntel Live" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>
-        <a href="https://github.com/Arpithaapoojary/Stegnoguard">🛡️ Stegnoguard</a>
-      </h3>
-      <p><b>Client-Side Steganography & Cryptography Suite</b></p>
-      <p>
-        Zero-knowledge browser security tool featuring Least Significant Bit (LSB) image steganography, client-side AES-256 payload encryption, real-time DNS MX/A record verification, and SMTP email validity diagnostics.
-      </p>
-      <p>
-        <code>React</code> <code>TypeScript</code> <code>Vite</code> <code>TailwindCSS</code> <code>Web Crypto API</code>
-      </p>
-      <p>
-        <a href="https://github.com/Arpithaapoojary/Stegnoguard">
-          <img src="https://img.shields.io/badge/GitHub-Stegnoguard-181717?style=flat-square&logo=github" alt="Stegnoguard Repo" />
-        </a>
-        &nbsp;
-        <a href="https://stegnoguard.vercel.app/">
-          <img src="https://img.shields.io/badge/Live_Demo-Vercel-000000?style=flat-square&logo=vercel" alt="Stegnoguard Live" />
-        </a>
-      </p>
-    </td>
-  </tr>
-
-  <!-- ROW 2: DermScan & BlogSpace -->
-  <tr>
-    <td width="50%" valign="top">
-      <h3>
-        <a href="https://github.com/Arpithaapoojary/DermScan">🩺 DermScan</a>
-      </h3>
-      <p><b>AI Clinical Decision Support for Skin Pathologies</b></p>
-      <p>
-        Deep learning medical diagnostic system using MobileNetV2 transfer learning for skin lesion classification. Implements Grad-CAM heatmaps for AI interpretability, doctor verification flows, and diagnosis history tracking.
+        Deep learning diagnostic system for automated dermatological lesion classification. Implements MobileNetV2 transfer learning architecture combined with Grad-CAM explainability heatmaps for clinical validation, historical diagnostic logging, and interpretability in healthcare workflows.
       </p>
       <p>
         <code>Python</code> <code>Flask</code> <code>TensorFlow</code> <code>MobileNetV2</code> <code>Grad-CAM</code> <code>OpenCV</code>
       </p>
       <p>
         <a href="https://github.com/Arpithaapoojary/DermScan">
-          <img src="https://img.shields.io/badge/GitHub-DermScan-181717?style=flat-square&logo=github" alt="DermScan Repo" />
-        </a>
-        &nbsp;
-        <a href="https://dermscan-8a6i.onrender.com">
-          <img src="https://img.shields.io/badge/Live_Demo-Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="DermScan Live" />
+          <img src="https://img.shields.io/badge/View_Source_Code-181717?style=flat-square&logo=github" alt="DermScan Source Code" />
         </a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>
-        <a href="https://github.com/Arpithaapoojary/blogspace">📝 BlogSpace</a>
+        <a href="https://github.com/Arpithaapoojary/Stegnoguard">Stegnoguard</a>
       </h3>
-      <p><b>Full-Stack MERN Publishing Ecosystem</b></p>
+      <p><b>Client-Side Steganography & Cryptography Suite</b></p>
       <p>
-        Modern blogging network with live Markdown rendering, syntax highlighting, JWT-based authentication, user follow networks, interaction streams (likes/comments), and an administrative moderation dashboard.
+        Zero-knowledge browser-based cryptographic toolkit providing Least Significant Bit (LSB) image steganography, client-side AES-256 payload encryption, live DNS MX/A record verification, and SMTP email validity diagnostics.
       </p>
       <p>
-        <code>MongoDB</code> <code>Express.js</code> <code>React</code> <code>Node.js</code> <code>JWT</code> <code>REST API</code>
+        <code>React</code> <code>TypeScript</code> <code>Vite</code> <code>TailwindCSS</code> <code>Web Crypto API</code>
       </p>
       <p>
-        <a href="https://github.com/Arpithaapoojary/blogspace">
-          <img src="https://img.shields.io/badge/GitHub-BlogSpace-181717?style=flat-square&logo=github" alt="BlogSpace Repo" />
-        </a>
-        &nbsp;
-        <a href="https://blogspace-web-site.vercel.app/">
-          <img src="https://img.shields.io/badge/Live_Demo-Vercel-000000?style=flat-square&logo=vercel" alt="BlogSpace Live" />
+        <a href="https://github.com/Arpithaapoojary/Stegnoguard">
+          <img src="https://img.shields.io/badge/View_Source_Code-181717?style=flat-square&logo=github" alt="Stegnoguard Source Code" />
         </a>
       </p>
     </td>
   </tr>
 
-  <!-- ROW 3: snip (URL Shortener) & BakeHub -->
+  <!-- ROW 2: BakeHub & DocIntel -->
   <tr>
     <td width="50%" valign="top">
       <h3>
-        <a href="https://github.com/Arpithaapoojary/url-shortener">✂️ snip</a>
+        <a href="https://github.com/Arpithaapoojary/BakeHub">BakeHub</a>
       </h3>
-      <p><b>URL Shortener & Engagement Analytics Engine</b></p>
+      <p><b>Bakery Marketplace & Order Management Platform</b></p>
       <p>
-        High-performance link shortening service supporting custom slugs, high-speed redirect routing, and interactive click analytics (total clicks, referrers, and timeline trends).
-      </p>
-      <p>
-        <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>REST API</code>
-      </p>
-      <p>
-        <a href="https://github.com/Arpithaapoojary/url-shortener">
-          <img src="https://img.shields.io/badge/GitHub-url--shortener-181717?style=flat-square&logo=github" alt="url-shortener Repo" />
-        </a>
-        &nbsp;
-        <a href="https://url-shortener-blond-xi.vercel.app">
-          <img src="https://img.shields.io/badge/Live_Demo-Vercel-000000?style=flat-square&logo=vercel" alt="snip Live" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>
-        <a href="https://github.com/Arpithaapoojary/BakeHub">🥐 BakeHub</a>
-      </h3>
-      <p><b>Bakery Marketplace & Order Platform</b></p>
-      <p>
-        Full-stack bakery commerce platform connecting customers and bakers. Features real-time menu catalog browsing, dietary filter tags, persistent cart management, and multi-role dashboards (Customer, Owner, Admin).
+        Full-stack bakery commerce platform connecting customers and local bakers. Features real-time menu catalog browsing, dietary filter tags, persistent cart management, and role-based access control dashboards (Customer, Owner, Admin).
       </p>
       <p>
         <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>TailwindCSS</code>
       </p>
       <p>
         <a href="https://github.com/Arpithaapoojary/BakeHub">
-          <img src="https://img.shields.io/badge/GitHub-BakeHub-181717?style=flat-square&logo=github" alt="BakeHub Repo" />
+          <img src="https://img.shields.io/badge/View_Source_Code-181717?style=flat-square&logo=github" alt="BakeHub Source Code" />
         </a>
-        &nbsp;
-        <a href="https://bake-hub-lilac.vercel.app">
-          <img src="https://img.shields.io/badge/Live_Demo-Vercel-000000?style=flat-square&logo=vercel" alt="BakeHub Live" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/Arpithaapoojary/DocIntel">DocIntel</a>
+      </h3>
+      <p><b>Enterprise AI Document Intelligence & RAG Platform</b></p>
+      <p>
+        Production-grade Retrieval-Augmented Generation (RAG) system for multi-format document parsing (PDF, DOCX, TXT), vector chunking via ChromaDB, hallucination-resistant Q&A with grounded citations, confidence scoring, and administrative telemetry monitoring.
+      </p>
+      <p>
+        <code>FastAPI</code> <code>Python</code> <code>React</code> <code>TypeScript</code> <code>ChromaDB</code> <code>TailwindCSS</code>
+      </p>
+      <p>
+        <a href="https://github.com/Arpithaapoojary/DocIntel">
+          <img src="https://img.shields.io/badge/View_Source_Code-181717?style=flat-square&logo=github" alt="DocIntel Source Code" />
+        </a>
+      </p>
+    </td>
+  </tr>
+
+  <!-- ROW 3: BlogSpace & snip (URL Shortener) -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/Arpithaapoojary/blogspace">BlogSpace</a>
+      </h3>
+      <p><b>Full-Stack MERN Publishing Ecosystem</b></p>
+      <p>
+        Modern content publishing network featuring live Markdown parsing, syntax highlighting, JWT-based authentication, user follow mechanisms, interactive interaction streams (likes/comments), and an administrative moderation dashboard.
+      </p>
+      <p>
+        <code>MongoDB</code> <code>Express.js</code> <code>React</code> <code>Node.js</code> <code>JWT</code> <code>REST API</code>
+      </p>
+      <p>
+        <a href="https://github.com/Arpithaapoojary/blogspace">
+          <img src="https://img.shields.io/badge/View_Source_Code-181717?style=flat-square&logo=github" alt="BlogSpace Source Code" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/Arpithaapoojary/url-shortener">snip</a>
+      </h3>
+      <p><b>URL Shortener & Engagement Analytics Engine</b></p>
+      <p>
+        Link shortening architecture supporting custom slugs, high-speed collision-resistant redirect routing, and comprehensive click analytics tracking (click volume, referrers, and timeline trends).
+      </p>
+      <p>
+        <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>REST API</code>
+      </p>
+      <p>
+        <a href="https://github.com/Arpithaapoojary/url-shortener">
+          <img src="https://img.shields.io/badge/View_Source_Code-181717?style=flat-square&logo=github" alt="snip Source Code" />
         </a>
       </p>
     </td>
@@ -186,74 +162,66 @@
   <tr>
     <td width="50%" valign="top">
       <h3>
-        <a href="https://github.com/Arpithaapoojary/ai-chatbot">🤖 AI Chatbot</a>
+        <a href="https://github.com/Arpithaapoojary/ai-chatbot">AI Chatbot</a>
       </h3>
       <p><b>Google Gemini Multimodal Assistant UI</b></p>
       <p>
-        Conversational assistant interface powered by the Google Gemini API. Supports real-time text streaming simulations, multimodal image attachment analysis, auto-scrolling viewports, and clean responsive styling.
+        Conversational assistant interface integrated with the Google Gemini API. Supports real-time text streaming simulations, multimodal image attachment processing, auto-scrolling viewports, and clean responsive layout styling.
       </p>
       <p>
         <code>Gemini API</code> <code>JavaScript (ES6+)</code> <code>HTML5</code> <code>CSS3</code>
       </p>
       <p>
         <a href="https://github.com/Arpithaapoojary/ai-chatbot">
-          <img src="https://img.shields.io/badge/GitHub-ai--chatbot-181717?style=flat-square&logo=github" alt="AI Chatbot Repo" />
+          <img src="https://img.shields.io/badge/View_Source_Code-181717?style=flat-square&logo=github" alt="AI Chatbot Source Code" />
         </a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>
-        <a href="https://github.com/Arpithaapoojary/category-clash">🎮 Category Clash</a>
+        <a href="https://github.com/Arpithaapoojary/category-clash">Category Clash</a>
       </h3>
-      <p><b>Fast-Paced Trivia Quiz Web Game</b></p>
+      <p><b>Real-Time Trivia Quiz Web Application</b></p>
       <p>
-        Interactive category-based trivia battle game integrating dynamic questions via the Open Trivia REST API. Features stateful per-question countdown timers, streak multipliers, and animated scoreboards.
+        Interactive category-based trivia battle game integrating dynamic questions via the Open Trivia REST API. Features stateful per-question countdown timers, streak multiplier logic, and responsive CSS animations.
       </p>
       <p>
         <code>JavaScript (ES6+)</code> <code>REST API</code> <code>HTML5</code> <code>CSS3 Animations</code>
       </p>
       <p>
         <a href="https://github.com/Arpithaapoojary/category-clash">
-          <img src="https://img.shields.io/badge/GitHub-category--clash-181717?style=flat-square&logo=github" alt="Category Clash Repo" />
-        </a>
-        &nbsp;
-        <a href="https://category-clash-wheat.vercel.app">
-          <img src="https://img.shields.io/badge/Live_Demo-Vercel-000000?style=flat-square&logo=vercel" alt="Category Clash Live" />
+          <img src="https://img.shields.io/badge/View_Source_Code-181717?style=flat-square&logo=github" alt="Category Clash Source Code" />
         </a>
       </p>
     </td>
   </tr>
 
-  <!-- ROW 5: Personal Portfolio & Internship Labs -->
+  <!-- ROW 5: Portfolio & Internship Labs -->
   <tr>
     <td width="50%" valign="top">
       <h3>
-        <a href="https://github.com/Arpithaapoojary/portfolio">🌐 Developer Portfolio</a>
+        <a href="https://github.com/Arpithaapoojary/portfolio">Developer Portfolio</a>
       </h3>
-      <p><b>Personal Engineering Portfolio & Brand</b></p>
+      <p><b>Personal Engineering Portfolio</b></p>
       <p>
-        Modern, responsive portfolio website highlighting full-stack engineering builds, resume credentials, interactive project previews, and direct contact gateways.
+        Clean, accessible developer portfolio website detailing full-stack engineering builds, technical credentials, interactive project showcases, and professional contact channels.
       </p>
       <p>
         <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>Vercel</code>
       </p>
       <p>
         <a href="https://github.com/Arpithaapoojary/portfolio">
-          <img src="https://img.shields.io/badge/GitHub-portfolio-181717?style=flat-square&logo=github" alt="Portfolio Repo" />
-        </a>
-        &nbsp;
-        <a href="https://portfolio-arpithaapoojary.vercel.app/">
-          <img src="https://img.shields.io/badge/Live_Demo-Vercel-000000?style=flat-square&logo=vercel" alt="Portfolio Live" />
+          <img src="https://img.shields.io/badge/View_Source_Code-181717?style=flat-square&logo=github" alt="Portfolio Source Code" />
         </a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>
-        <a href="https://github.com/Arpithaapoojary?tab=repositories">💼 Web Engineering Labs</a>
+        <a href="https://github.com/Arpithaapoojary?tab=repositories">Web Engineering Labs</a>
       </h3>
       <p><b>Frontend Internship Development Suite (Tasks 01–03)</b></p>
       <p>
-        Collection of production-standard frontend modules demonstrating reactive DOM manipulation, responsive layouts, form validations, and asynchronous UI states.
+        Collection of production-standard frontend modules demonstrating reactive DOM manipulation, responsive layouts, client-side form validations, and asynchronous UI states.
       </p>
       <p>
         <code>HTML5</code> <code>CSS3</code> <code>JavaScript (ES6)</code>
