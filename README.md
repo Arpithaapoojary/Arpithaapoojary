@@ -41,21 +41,88 @@
 
 ---
 
-### Featured Projects
+# 🚀 Featured Projects & Engineering Highlights
 
-| Project | Description | Tech |
-|---|---|---|
-| [**DocIntel**](https://github.com/Arpithaapoojary/DocIntel) | Enterprise AI Document Intelligence & RAG platform — multi-format parsing, grounded citations, confidence scoring & admin telemetry — [live demo](https://doc-intel-live.vercel.app) | FastAPI · Python · React · TypeScript · ChromaDB |
-| [**Stegnoguard**](https://github.com/Arpithaapoojary/Stegnoguard) | Client-side security & steganography suite — LSB image hiding, AES encryption, DNS lookup & email validation — [live demo](https://stegnoguard.vercel.app/) | React · TypeScript · Vite · Tailwind |
-| [**DermScan**](https://github.com/Arpithaapoojary/DermScan) | AI-powered clinical decision support system for skin pathologies featuring a hierarchical CNN, Grad-CAM explainability, and a doctor validation dashboard — [live demo](https://dermscan-8a6i.onrender.com) | Python · Flask · TensorFlow · SQLite |
-| [**BlogSpace**](https://github.com/Arpithaapoojary/blogspace) | Full-stack MERN blogging platform — markdown editor, admin dashboard, likes, comments, followers | React · Node.js · Express · MongoDB |
-| [**snip (URL Shortener)**](https://github.com/Arpithaapoojary/url-shortener) | Full-stack URL shortener with custom slugs and click analytics — [live demo](https://url-shortener-blond-xi.vercel.app) | React · Node.js · Express |
-| [**BakeHub**](https://github.com/Arpithaapoojary/BakeHub) | Full-stack bakery web application | React · Node.js · Express · MongoDB |
-| [**AI Chatbot**](https://github.com/Arpithaapoojary/ai-chatbot) | Responsive AI chatbot interface with real-time chat simulation, text & image support | HTML · CSS · JavaScript |
-| [**Category Clash**](https://github.com/Arpithaapoojary/category-clash) | Timed trivia quiz game with live questions — [live demo](https://category-clash-quiz.vercel.app/) | JavaScript · REST API |
-| [**Internship Tasks**](https://github.com/Arpithaapoojary?tab=repositories) | A series of internship projects (Task 01-03) covering front-end fundamentals | HTML · CSS · JavaScript |
+<br/>
+
+### 🧠 01. [DocIntel](https://github.com/Arpithaapoojary/DocIntel) — Enterprise AI Document Intelligence & RAG Platform
+> **Production-grade Retrieval-Augmented Generation (RAG) platform** designed for multi-format document parsing, semantic search, hallucination-resistant answers with verifiable source citations, and admin telemetry monitoring.
+
+- ⚡ **Core Highlights:** Multi-format ingestion (PDF, DOCX, TXT), vector chunking with ChromaDB, confidence score calculation, grounded citations, and real-time observability telemetry.
+- 🛠️ **Tech Stack:** `FastAPI` `Python` `React` `TypeScript` `ChromaDB` `TailwindCSS`
+- 🔗 **Links:** [🌐 Live Demo](https://doc-intel-live.vercel.app) • [💻 Source Code](https://github.com/Arpithaapoojary/DocIntel)
 
 ---
+
+### 🛡️ 02. [Stegnoguard](https://github.com/Arpithaapoojary/Stegnoguard) — Client-Side Security & Steganography Suite
+> **All-in-one browser-based cryptographic suite** enabling zero-server-knowledge data hiding within digital media alongside real-time domain and email security validation.
+
+- ⚡ **Core Highlights:** LSB (Least Significant Bit) pixel manipulation for lossless image steganography, AES-256 payload encryption, real-time DNS record lookups, and SMTP validation algorithms.
+- 🛠️ **Tech Stack:** `React` `TypeScript` `Vite` `TailwindCSS` `Web Crypto API`
+- 🔗 **Links:** [🌐 Live Demo](https://stegnoguard.vercel.app/) • [💻 Source Code](https://github.com/Arpithaapoojary/Stegnoguard)
+
+---
+
+### 🩺 03. [DermScan](https://github.com/Arpithaapoojary/DermScan) — AI Clinical Decision Support System
+> **Medical diagnostic AI system** built to classify dermatological lesions and skin pathologies with transparent explainability for healthcare practitioners.
+
+- ⚡ **Core Highlights:** Hierarchical Convolutional Neural Network (CNN), Grad-CAM visual heatmaps for AI interpretability, doctor verification workflow, and diagnosis logging.
+- 🛠️ **Tech Stack:** `Python` `Flask` `TensorFlow` `Keras` `OpenCV` `SQLite`
+- 🔗 **Links:** [🌐 Live Demo](https://dermscan-8a6i.onrender.com) • [💻 Source Code](https://github.com/Arpithaapoojary/DermScan)
+
+---
+
+### 📝 04. [BlogSpace](https://github.com/Arpithaapoojary/blogspace) — Full-Stack MERN Publishing Ecosystem
+> **Modern full-featured blogging network** with dynamic markdown rendering, user engagement mechanics, and granular administrative control.
+
+- ⚡ **Core Highlights:** Live Markdown parsing & syntax highlighting, JWT-based authentication, follower/following network, and real-time comment/like streams.
+- 🛠️ **Tech Stack:** `MongoDB` `Express.js` `React` `Node.js` `JWT` `REST API`
+- 🔗 **Links:** [💻 Source Code](https://github.com/Arpithaapoojary/blogspace)
+
+---
+
+### ✂️ 05. [snip](https://github.com/Arpithaapoojary/url-shortener) — URL Shortener & Click Analytics Platform
+> **High-performance link shortening service** featuring custom alias creation, high-throughput redirect resolution, and visual engagement analytics.
+
+- ⚡ **Core Highlights:** Custom slug generation, collision-resistant hash generation, click-through-rate (CTR) logging, referrer tracking, and responsive UI.
+- 🛠️ **Tech Stack:** `React` `Node.js` `Express` `MongoDB` `REST API`
+- 🔗 **Links:** [🌐 Live Demo](https://url-shortener-blond-xi.vercel.app) • [💻 Source Code](https://github.com/Arpithaapoojary/url-shortener)
+
+---
+
+### 🥐 06. [BakeHub](https://github.com/Arpithaapoojary/BakeHub) — E-Commerce Bakery Web Application
+> **Interactive storefront and order management system** tailored for artisanal bakeries with dynamic cart state and product filtering.
+
+- ⚡ **Core Highlights:** Product catalog filtering by dietary preferences, dynamic cart calculation, session management, and responsive checkout flows.
+- 🛠️ **Tech Stack:** `React` `Node.js` `Express` `MongoDB` `CSS3`
+- 🔗 **Links:** [💻 Source Code](https://github.com/Arpithaapoojary/BakeHub)
+
+---
+
+### 🤖 07. [AI Chatbot](https://github.com/Arpithaapoojary/ai-chatbot) — Real-Time Conversational Interface
+> **Lightweight, zero-dependency AI conversational assistant UI** featuring asynchronous streaming simulations and media attachment support.
+
+- ⚡ **Core Highlights:** Asynchronous typing animations, auto-scrolling viewport, multi-modal image preview support, and sleek mobile-first design.
+- 🛠️ **Tech Stack:** `HTML5` `CSS3` `JavaScript (ES6+)`
+- 🔗 **Links:** [💻 Source Code](https://github.com/Arpithaapoojary/ai-chatbot)
+
+---
+
+### 🎮 08. [Category Clash](https://github.com/Arpithaapoojary/category-clash) — Real-Time Trivia Battle Game
+> **Fast-paced interactive trivia game** fetching dynamic category-based questions with custom countdown timers and streak tracking.
+
+- ⚡ **Core Highlights:** Live Open Trivia API integration, stateful score calculation, dynamic time-penalty mechanics, and animated feedback.
+- 🛠️ **Tech Stack:** `JavaScript (ES6+)` `Open Trivia API` `CSS3 Animations`
+- 🔗 **Links:** [🌐 Live Demo](https://category-clash-quiz.vercel.app/) • [💻 Source Code](https://github.com/Arpithaapoojary/category-clash)
+
+---
+
+### 💼 09. [Internship Projects Suite](https://github.com/Arpithaapoojary?tab=repositories) — Frontend Engineering Labs
+> **Collection of frontend builds (Tasks 01–03)** focusing on core DOM manipulation, responsive design principles, and UI/UX best practices.
+
+- 🛠️ **Tech Stack:** `HTML5` `CSS3` `JavaScript`
+- 🔗 **Links:** [📂 View Repositories](https://github.com/Arpithaapoojary?tab=repositories)
+
 
 ### Connect with Me
 
