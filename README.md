@@ -41,87 +41,261 @@
 
 ---
 
-# 🚀 Featured Projects & Engineering Highlights
+## 🚀 Featured Engineering Projects
 
-<br/>
+<table>
+  <!-- DocIntel -->
+  <tr>
+    <td width="100%">
+      <div align="left">
+        <h3>
+          <a href="https://github.com/Arpithaapoojary/DocIntel">🧠 DocIntel — Enterprise AI Document Intelligence & RAG Platform</a>
+        </h3>
+        <p>
+          <b>Production-grade Retrieval-Augmented Generation (RAG) platform</b> built to ingest, parse, and semantically query complex documents (PDFs, Word documents, text). Features hallucination-resistant responses with grounded citations, confidence scoring metrics, and an administrative telemetry dashboard for real-time observability.
+        </p>
+        <p>
+          <code>FastAPI</code> &nbsp;•&nbsp; 
+          <code>Python</code> &nbsp;•&nbsp; 
+          <code>React</code> &nbsp;•&nbsp; 
+          <code>TypeScript</code> &nbsp;•&nbsp; 
+          <code>ChromaDB</code> &nbsp;•&nbsp; 
+          <code>TailwindCSS</code>
+        </p>
+        <p>
+          <a href="https://github.com/Arpithaapoojary/DocIntel">
+            <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="DocIntel GitHub" />
+          </a>
+          &nbsp;
+          <a href="https://doc-intel-live.vercel.app">
+            <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="DocIntel Live Demo" />
+          </a>
+        </p>
+      </div>
+    </td>
+  </tr>
 
-### 🧠 01. [DocIntel](https://github.com/Arpithaapoojary/DocIntel) — Enterprise AI Document Intelligence & RAG Platform
-> **Production-grade Retrieval-Augmented Generation (RAG) platform** designed for multi-format document parsing, semantic search, hallucination-resistant answers with verifiable source citations, and admin telemetry monitoring.
+  <!-- Stegnoguard -->
+  <tr>
+    <td width="100%">
+      <div align="left">
+        <h3>
+          <a href="https://github.com/Arpithaapoojary/Stegnoguard">🛡️ Stegnoguard — Client-Side Security & Steganography Suite</a>
+        </h3>
+        <p>
+          <b>Zero-knowledge client-side cryptography tool</b> enabling secure, undetectable data concealing inside digital images using Least Significant Bit (LSB) steganography. Includes end-to-end AES-256 payload encryption, live DNS MX/A record verification, and SMTP email validity diagnostics.
+        </p>
+        <p>
+          <code>React</code> &nbsp;•&nbsp; 
+          <code>TypeScript</code> &nbsp;•&nbsp; 
+          <code>Vite</code> &nbsp;•&nbsp; 
+          <code>TailwindCSS</code> &nbsp;•&nbsp; 
+          <code>Web Crypto API</code>
+        </p>
+        <p>
+          <a href="https://github.com/Arpithaapoojary/Stegnoguard">
+            <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Stegnoguard GitHub" />
+          </a>
+          &nbsp;
+          <a href="https://stegnoguard.vercel.app/">
+            <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Stegnoguard Live Demo" />
+          </a>
+        </p>
+      </div>
+    </td>
+  </tr>
 
-- ⚡ **Core Highlights:** Multi-format ingestion (PDF, DOCX, TXT), vector chunking with ChromaDB, confidence score calculation, grounded citations, and real-time observability telemetry.
-- 🛠️ **Tech Stack:** `FastAPI` `Python` `React` `TypeScript` `ChromaDB` `TailwindCSS`
-- 🔗 **Links:** [🌐 Live Demo](https://doc-intel-live.vercel.app) • [💻 Source Code](https://github.com/Arpithaapoojary/DocIntel)
+  <!-- DermScan -->
+  <tr>
+    <td width="100%">
+      <div align="left">
+        <h3>
+          <a href="https://github.com/Arpithaapoojary/DermScan">🩺 DermScan — AI Clinical Decision Support for Skin Pathologies</a>
+        </h3>
+        <p>
+          <b>Deep learning medical diagnostic assistant</b> developed to classify dermatological conditions from clinical imagery. Implements a Hierarchical Convolutional Neural Network (CNN) integrated with Grad-CAM explainability heatmaps to provide transparent diagnostic verification for medical practitioners.
+        </p>
+        <p>
+          <code>Python</code> &nbsp;•&nbsp; 
+          <code>Flask</code> &nbsp;•&nbsp; 
+          <code>TensorFlow</code> &nbsp;•&nbsp; 
+          <code>Keras</code> &nbsp;•&nbsp; 
+          <code>OpenCV</code> &nbsp;•&nbsp; 
+          <code>SQLite</code>
+        </p>
+        <p>
+          <a href="https://github.com/Arpithaapoojary/DermScan">
+            <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="DermScan GitHub" />
+          </a>
+          &nbsp;
+          <a href="https://dermscan-8a6i.onrender.com">
+            <img src="https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="DermScan Live Demo" />
+          </a>
+        </p>
+      </div>
+    </td>
+  </tr>
 
----
+  <!-- BlogSpace -->
+  <tr>
+    <td width="100%">
+      <div align="left">
+        <h3>
+          <a href="https://github.com/Arpithaapoojary/blogspace">📝 BlogSpace — Full-Stack MERN Publishing Platform</a>
+        </h3>
+        <p>
+          <b>End-to-end modern content publishing network</b> supporting dynamic Markdown editing, live syntax highlighting, JWT-authenticated role management, user follow systems, and interactive comment/reaction streams.
+        </p>
+        <p>
+          <code>MongoDB</code> &nbsp;•&nbsp; 
+          <code>Express.js</code> &nbsp;•&nbsp; 
+          <code>React</code> &nbsp;•&nbsp; 
+          <code>Node.js</code> &nbsp;•&nbsp; 
+          <code>JWT</code> &nbsp;•&nbsp; 
+          <code>REST API</code>
+        </p>
+        <p>
+          <a href="https://github.com/Arpithaapoojary/blogspace">
+            <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="BlogSpace GitHub" />
+          </a>
+        </p>
+      </div>
+    </td>
+  </tr>
 
-### 🛡️ 02. [Stegnoguard](https://github.com/Arpithaapoojary/Stegnoguard) — Client-Side Security & Steganography Suite
-> **All-in-one browser-based cryptographic suite** enabling zero-server-knowledge data hiding within digital media alongside real-time domain and email security validation.
+  <!-- snip -->
+  <tr>
+    <td width="100%">
+      <div align="left">
+        <h3>
+          <a href="https://github.com/Arpithaapoojary/url-shortener">✂️ snip — High-Performance URL Shortener & Analytics</a>
+        </h3>
+        <p>
+          <b>Custom link shortening engine</b> featuring custom slug generation, collision-resistant redirection routing, and comprehensive click analytics tracking (click volume, referrers, and timestamps).
+        </p>
+        <p>
+          <code>React</code> &nbsp;•&nbsp; 
+          <code>Node.js</code> &nbsp;•&nbsp; 
+          <code>Express</code> &nbsp;•&nbsp; 
+          <code>MongoDB</code> &nbsp;•&nbsp; 
+          <code>REST API</code>
+        </p>
+        <p>
+          <a href="https://github.com/Arpithaapoojary/url-shortener">
+            <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="snip GitHub" />
+          </a>
+          &nbsp;
+          <a href="https://url-shortener-blond-xi.vercel.app">
+            <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="snip Live Demo" />
+          </a>
+        </p>
+      </div>
+    </td>
+  </tr>
 
-- ⚡ **Core Highlights:** LSB (Least Significant Bit) pixel manipulation for lossless image steganography, AES-256 payload encryption, real-time DNS record lookups, and SMTP validation algorithms.
-- 🛠️ **Tech Stack:** `React` `TypeScript` `Vite` `TailwindCSS` `Web Crypto API`
-- 🔗 **Links:** [🌐 Live Demo](https://stegnoguard.vercel.app/) • [💻 Source Code](https://github.com/Arpithaapoojary/Stegnoguard)
+  <!-- BakeHub -->
+  <tr>
+    <td width="100%">
+      <div align="left">
+        <h3>
+          <a href="https://github.com/Arpithaapoojary/BakeHub">🥐 BakeHub — Full-Stack Bakery E-Commerce Platform</a>
+        </h3>
+        <p>
+          <b>Interactive bakery storefront and order management application</b> featuring category-based filtering, dynamic persistent cart calculations, item customization options, and responsive checkout flows.
+        </p>
+        <p>
+          <code>React</code> &nbsp;•&nbsp; 
+          <code>Node.js</code> &nbsp;•&nbsp; 
+          <code>Express</code> &nbsp;•&nbsp; 
+          <code>MongoDB</code> &nbsp;•&nbsp; 
+          <code>CSS3</code>
+        </p>
+        <p>
+          <a href="https://github.com/Arpithaapoojary/BakeHub">
+            <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="BakeHub GitHub" />
+          </a>
+        </p>
+      </div>
+    </td>
+  </tr>
 
----
+  <!-- AI Chatbot -->
+  <tr>
+    <td width="100%">
+      <div align="left">
+        <h3>
+          <a href="https://github.com/Arpithaapoojary/ai-chatbot">🤖 AI Chatbot — Conversational Assistant UI</a>
+        </h3>
+        <p>
+          <b>Lightweight conversational assistant interface</b> built with vanilla web technologies, featuring simulated asynchronous response streaming, typing indicators, auto-scrolling viewport, and multi-modal text/image input previews.
+        </p>
+        <p>
+          <code>HTML5</code> &nbsp;•&nbsp; 
+          <code>CSS3</code> &nbsp;•&nbsp; 
+          <code>JavaScript (ES6+)</code>
+        </p>
+        <p>
+          <a href="https://github.com/Arpithaapoojary/ai-chatbot">
+            <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="AI Chatbot GitHub" />
+          </a>
+        </p>
+      </div>
+    </td>
+  </tr>
 
-### 🩺 03. [DermScan](https://github.com/Arpithaapoojary/DermScan) — AI Clinical Decision Support System
-> **Medical diagnostic AI system** built to classify dermatological lesions and skin pathologies with transparent explainability for healthcare practitioners.
+  <!-- Category Clash -->
+  <tr>
+    <td width="100%">
+      <div align="left">
+        <h3>
+          <a href="https://github.com/Arpithaapoojary/category-clash">🎮 Category Clash — Real-Time Trivia Quiz Game</a>
+        </h3>
+        <p>
+          <b>Interactive web trivia game</b> fetching dynamic questions across multiple categories via the Open Trivia REST API. Features stateful countdown timer mechanics, score streak tracking, and fluid CSS animations.
+        </p>
+        <p>
+          <code>JavaScript</code> &nbsp;•&nbsp; 
+          <code>REST API</code> &nbsp;•&nbsp; 
+          <code>CSS3 Animations</code>
+        </p>
+        <p>
+          <a href="https://github.com/Arpithaapoojary/category-clash">
+            <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Category Clash GitHub" />
+          </a>
+          &nbsp;
+          <a href="https://category-clash-quiz.vercel.app/">
+            <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Category Clash Live Demo" />
+          </a>
+        </p>
+      </div>
+    </td>
+  </tr>
 
-- ⚡ **Core Highlights:** Hierarchical Convolutional Neural Network (CNN), Grad-CAM visual heatmaps for AI interpretability, doctor verification workflow, and diagnosis logging.
-- 🛠️ **Tech Stack:** `Python` `Flask` `TensorFlow` `Keras` `OpenCV` `SQLite`
-- 🔗 **Links:** [🌐 Live Demo](https://dermscan-8a6i.onrender.com) • [💻 Source Code](https://github.com/Arpithaapoojary/DermScan)
+  <!-- Internship Tasks -->
+  <tr>
+    <td width="100%">
+      <div align="left">
+        <h3>
+          <a href="https://github.com/Arpithaapoojary?tab=repositories">💼 Web Engineering Internship Labs (Tasks 01–03)</a>
+        </h3>
+        <p>
+          <b>Series of foundational web development modules</b> demonstrating DOM manipulation, responsive layouts, asynchronous state management, and modern CSS layout architectures.
+        </p>
+        <p>
+          <code>HTML5</code> &nbsp;•&nbsp; 
+          <code>CSS3</code> &nbsp;•&nbsp; 
+          <code>JavaScript</code>
+        </p>
+        <p>
+          <a href="https://github.com/Arpithaapoojary?tab=repositories">
+            <img src="https://img.shields.io/badge/Explore_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Internship Repositories" />
+          </a>
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
 
----
-
-### 📝 04. [BlogSpace](https://github.com/Arpithaapoojary/blogspace) — Full-Stack MERN Publishing Ecosystem
-> **Modern full-featured blogging network** with dynamic markdown rendering, user engagement mechanics, and granular administrative control.
-
-- ⚡ **Core Highlights:** Live Markdown parsing & syntax highlighting, JWT-based authentication, follower/following network, and real-time comment/like streams.
-- 🛠️ **Tech Stack:** `MongoDB` `Express.js` `React` `Node.js` `JWT` `REST API`
-- 🔗 **Links:** [💻 Source Code](https://github.com/Arpithaapoojary/blogspace)
-
----
-
-### ✂️ 05. [snip](https://github.com/Arpithaapoojary/url-shortener) — URL Shortener & Click Analytics Platform
-> **High-performance link shortening service** featuring custom alias creation, high-throughput redirect resolution, and visual engagement analytics.
-
-- ⚡ **Core Highlights:** Custom slug generation, collision-resistant hash generation, click-through-rate (CTR) logging, referrer tracking, and responsive UI.
-- 🛠️ **Tech Stack:** `React` `Node.js` `Express` `MongoDB` `REST API`
-- 🔗 **Links:** [🌐 Live Demo](https://url-shortener-blond-xi.vercel.app) • [💻 Source Code](https://github.com/Arpithaapoojary/url-shortener)
-
----
-
-### 🥐 06. [BakeHub](https://github.com/Arpithaapoojary/BakeHub) — E-Commerce Bakery Web Application
-> **Interactive storefront and order management system** tailored for artisanal bakeries with dynamic cart state and product filtering.
-
-- ⚡ **Core Highlights:** Product catalog filtering by dietary preferences, dynamic cart calculation, session management, and responsive checkout flows.
-- 🛠️ **Tech Stack:** `React` `Node.js` `Express` `MongoDB` `CSS3`
-- 🔗 **Links:** [💻 Source Code](https://github.com/Arpithaapoojary/BakeHub)
-
----
-
-### 🤖 07. [AI Chatbot](https://github.com/Arpithaapoojary/ai-chatbot) — Real-Time Conversational Interface
-> **Lightweight, zero-dependency AI conversational assistant UI** featuring asynchronous streaming simulations and media attachment support.
-
-- ⚡ **Core Highlights:** Asynchronous typing animations, auto-scrolling viewport, multi-modal image preview support, and sleek mobile-first design.
-- 🛠️ **Tech Stack:** `HTML5` `CSS3` `JavaScript (ES6+)`
-- 🔗 **Links:** [💻 Source Code](https://github.com/Arpithaapoojary/ai-chatbot)
-
----
-
-### 🎮 08. [Category Clash](https://github.com/Arpithaapoojary/category-clash) — Real-Time Trivia Battle Game
-> **Fast-paced interactive trivia game** fetching dynamic category-based questions with custom countdown timers and streak tracking.
-
-- ⚡ **Core Highlights:** Live Open Trivia API integration, stateful score calculation, dynamic time-penalty mechanics, and animated feedback.
-- 🛠️ **Tech Stack:** `JavaScript (ES6+)` `Open Trivia API` `CSS3 Animations`
-- 🔗 **Links:** [🌐 Live Demo](https://category-clash-quiz.vercel.app/) • [💻 Source Code](https://github.com/Arpithaapoojary/category-clash)
-
----
-
-### 💼 09. [Internship Projects Suite](https://github.com/Arpithaapoojary?tab=repositories) — Frontend Engineering Labs
-> **Collection of frontend builds (Tasks 01–03)** focusing on core DOM manipulation, responsive design principles, and UI/UX best practices.
-
-- 🛠️ **Tech Stack:** `HTML5` `CSS3` `JavaScript`
-- 🔗 **Links:** [📂 View Repositories](https://github.com/Arpithaapoojary?tab=repositories)
 
 
 ### Connect with Me
