@@ -25,7 +25,7 @@
 
 ### Tech Stack
 
-### 🛠️ Core Technologies & Tools
+###  Core Technologies & Tools
 
 #### Languages & Core
 <p align="left">
