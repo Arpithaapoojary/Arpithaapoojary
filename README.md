@@ -1,4 +1,16 @@
+<h1 align="center">Hi there, I'm Arpitha </h1>
 
+<h3 align="center">MCA Graduate @ MITE </h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Building+full-stack+web+apps;React+%7C+Node.js+%7C+MongoDB;Turning+ideas+into+working+code" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Mangalore,%20India-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Education-MCA%20Graduate-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square" />
+</p>
 
 ---
 
